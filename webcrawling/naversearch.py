@@ -22,3 +22,7 @@ rank_data = data['data']
     str(i['rank'])+ '. ' + i['keyword'] 
     for i in rank_data
 ]
+
+
+#출처 
+#https://blog.naver.com/PostView.nhn?blogId=swon7824&logNo=222039857687&parentCategoryNo=&categoryNo=26&viewDate=&isShowPopularPosts=true&from=search
