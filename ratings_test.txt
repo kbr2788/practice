@@ -1,3 +1,4 @@
+grade	document	label
 1	지저분ㅠ	0
 1	편의 시설이 안되네요	0
 3	무료캠핑	0
